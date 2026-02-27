@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm **Gunel**. My goal was to create a digital space that feels as "yummy" and aesthetic as the treats themselves, while maintaining high technical standards.
 
-**🔗 [Take a look at the Live Demo!](https://gyunell.github.io/YummyBox_online_food_shop_project/)**
+**🔗 [Take a look at the Live Demo!](https://gyunell.github.io/YummyBox_Web_App/)**
 
 ---
 
